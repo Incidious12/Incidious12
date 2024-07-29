@@ -1,6 +1,6 @@
-- nom : Cache
-  utilisations : actions/cache@v4.0.2
-  avec:
+- # Cache
+  utilisations : #actions/cache@v4.0.2
+  
     # Une liste de fichiers, de répertoires et de modèles génériques à mettre en cache et à restaurer
     chemin:
     # Une clé explicite pour restaurer et sauvegarder le cache
